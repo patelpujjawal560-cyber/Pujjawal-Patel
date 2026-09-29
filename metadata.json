@@ -1,0 +1,6 @@
+{
+  "name": "Jan Sadak - Road Complaint & High Court PIL Redressal Portal",
+  "description": "Civic portal to report damaged & unbuilt roads with photo evidence, ward, mukhiya details, and auto-generate High Court PIL petitions and DM notices.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
